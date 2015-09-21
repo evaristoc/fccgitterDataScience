@@ -90,7 +90,7 @@
     }
    ],
    "source": [
-    "directory = \"/your/path/to/data/\"\n",
+    "directory = \"/home/ec/Public/freecodecamp/analytics_project/data_analysis/\"\n",
     "raw = pickle.load(open(directory+\"help.pkl\", \"rb\"))\n",
     "users = set()\n",
     "for u in raw:\n",
