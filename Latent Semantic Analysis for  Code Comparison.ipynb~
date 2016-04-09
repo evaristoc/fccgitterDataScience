@@ -204,7 +204,7 @@
     "* *list of regex* that my parsing method managed to extract\n",
     "* *list of variable names* that my parsing method managed to extract\n",
     "\n",
-    "I finally made some additional formatting and transform the dataset into pandas.\n",
+    "After getting all the data in a more useful format I converted that file into pandas.\n",
     "\n"
    ]
   },
